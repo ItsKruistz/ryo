@@ -3,5 +3,7 @@
 </script>
 
 <main>
-  <Button>Button</Button>
+  <h1 class="text-3xl font-bold">
+    Ryo
+  </h1>
 </main>
