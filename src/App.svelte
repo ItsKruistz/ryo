@@ -8,4 +8,7 @@
     Ryo
   </h1>
   <Switch />
+  <Button>
+    Button
+  </Button>
 </main>
